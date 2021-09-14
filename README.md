@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ka%C3%A7an-a42808159/)
 [![]()
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniz.waitforit.kacan/)
-[![Mail Badge](https://img.shields.io/badge/searunaway@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:searunaway@gmail.com)](mailto:searunaway@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/searunaway@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:searunaway@gmail.com)](kacan17@itu.edu.tr)
 
 <!---
 MrDeniz98/MrDeniz98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
