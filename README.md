@@ -1,10 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MrDeniz98&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+# Merhaba, ben Deniz Kaçan! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrDeniz98" alt="MrDeniz98" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://twitter.com/Deniz8kacan)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/MrDeniz98)
+[![](https://img.shields.io/twitter/follow/Deniz8kacan?style=social)](https://twitter.com/Deniz8kacan)
+[![](https://img.shields.io/github/followers/MrDeniz98?style=social)](https://www.github.com/MrDeniz98)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCwZZBbTlmk-g-5zHKFmmh8w)
